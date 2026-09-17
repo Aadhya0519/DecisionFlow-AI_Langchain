@@ -1,0 +1,16 @@
+# Copy this file to ".env" and fill in your values.
+# Never commit your real .env file.
+
+# Required: API key for your LLM provider.
+LLM_API_KEY=your_api_key_here
+
+# Optional: model name. Defaults to gpt-4o-mini.
+LLM_MODEL=gpt-4o-mini
+
+# Optional: only set this if you are using an OpenAI-compatible provider
+# other than OpenAI itself (e.g. Groq, Together AI, OpenRouter).
+# Leave commented out to use OpenAI directly.
+# LLM_BASE_URL=https://api.groq.com/openai/v1
+
+# Optional: creativity of the model's responses (0.0 - 1.0). Defaults to 0.3.
+LLM_TEMPERATURE=0.3
