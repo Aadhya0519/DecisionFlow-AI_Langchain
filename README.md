@@ -1,5 +1,7 @@
 # DecisionFlow AI — Intelligent Decision Analysis Engine
 
+🚀 **Live Demo:** [Open Streamlit App](https://decisionflow-ailangchain-tirbarqg9razvhs4bkwcpy.streamlit.app/)
+
 *"Turn complex choices into structured decisions."*
 
 DecisionFlow AI takes any real-world decision described in plain English —
